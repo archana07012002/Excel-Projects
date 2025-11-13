@@ -19,6 +19,8 @@ At-a-glance metrics for the entire year:
 - Total Duration: 89,850 minutes
 - Average Rating: 3.9(out of 5.0)
 - Happy Callers: 307
+
+  
 ### 📉Operational Trends
 - Monthly Call Trend: A line graph that instantly highlights peak months (e.g., March) and low-volume periods, crucial for staffing decisions.
 - Daily Distribution: Bar charts showing call volume by day of the week (e.g., confirming Saturday's status as the busiest day).
