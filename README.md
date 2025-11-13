@@ -5,6 +5,7 @@
 This is a dynamic and comprehensive Call Center Report/Dashboard built in Microsoft Excel. It provides a single-view snapshot of annual performance (2023) across multiple locations, covering key metrics like sales, customer satisfaction, and operational efficiency. The goal is to quickly identify trends, pinpoint high-value areas, and optimize resource allocation.
 
 ## 📊 Dataset used
+https://github.com/archana07012002/Excel-Projects/blob/main/Call-Centre-Report-excel-portfolio-project.xlsx
 
 
 
